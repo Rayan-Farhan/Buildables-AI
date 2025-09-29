@@ -1,4 +1,5 @@
+# Environment variables
 .env
-requirements.txt
-index.html
-README.md
+
+# Python
+__pycache__/
